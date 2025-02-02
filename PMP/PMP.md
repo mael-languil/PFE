@@ -60,3 +60,20 @@ Le projet vise à répondre à plusieurs objectifs clés, prenant en compte les 
     - Gérer une équipe de développement internationale, en assurant une répartition efficace des tâches et responsabilités.
     - Suivre l’approvisionnement en ressources matérielles et logicielles nécessaires pour garantir le bon déroulement du projet.
     - Assurer la livraison des outils en respectant les délais et les contraintes budgétaires.
+
+### **Méthode gestion de projet**
+
+Étant donné que mon projet repose principalement sur le développement logiciel, j’ai choisi d’adopter une approche Agile, qui permet une gestion flexible et itérative du projet. L’Agile pose sur une adaptation continue aux besoins et aux contraintes techniques, tout en favorisant la collaboration entre les différentes parties prenantes.
+
+Dans cette approche, le développement est organisé en cycles itératifs et incrémentaux, où chaque itération permet de livrer une version partielle mais fonctionnelle des outils logiciels. Plutôt que de suivre un modèle strictement prédéfini, cette méthode favorise une évolution continue en fonction des retours utilisateurs et des éventuels défis techniques rencontrés au fil du projet.
+
+Le découpage des tâches se fait en petites unités indépendantes, chacune représentant une fonctionnalité ou une amélioration spécifique du logiciel. À la fin de chaque itération, un bilan est réalisé pour ajuster les priorités et intégrer les retours des testeurs et opérateurs. Cette approche offre plusieurs avantages :
+
+- Flexibilité et adaptation : Permet de prendre en compte les retours des testeurs en temps réel et d’adapter rapidement le développement en fonction des nouveaux besoins identifiés.
+- Amélioration continue : Chaque itération permet d’optimiser les performances des outils et d’intégrer progressivement des fonctionnalités avancées.
+- Suivi structuré : Grâce à une planification des itérations et des revues régulières, l’évolution du projet est claire et mesurable.
+
+En appliquant cette méthode Agile, je peux garantir un développement progressif des outils logiciels, en optimisant leur robustesse et leur pertinence pour les utilisateurs finaux.
+
+## **Mise en oeuvre**
+
